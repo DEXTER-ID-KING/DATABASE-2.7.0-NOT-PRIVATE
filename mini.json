@@ -1,1 +1,23 @@
-{}
+{
+  "94789958225": [
+    {
+      "custom_name": "dexter_profile_000001.jpg",
+      "tg_file_id": "AgACAgUAAxkBAAIBx2ZABCDEF1234567890",
+      "uploaded_at": "2025-12-14T10:30:00Z"
+    },
+    {
+      "custom_name": "dexter_profile_000002.jpg",
+      "tg_file_id": "AgACAgUAAxkBAAIBx2ZXYZ9876543210",
+      "uploaded_at": "2025-12-14T11:05:12Z"
+    }
+  ],
+
+  "94712345678": [
+    {
+      "custom_name": "user_image_000001.png",
+      "tg_file_id": "AgACAgUAAxkBAAICx9LMNOPQ123456789",
+      "uploaded_at": "2025-12-15T09:12:44Z"
+    }
+  ]
+}
+
